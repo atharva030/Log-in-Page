@@ -1,0 +1,14 @@
+firstname
+lastname
+city
+gender
+password
+confirmpassword
+
+
+
+        
+        |---http post--->Create Record
+CLIENT--|---http get---->Read Record
+        |---http put---->Update Record
+        |---http delete->Delete Record
